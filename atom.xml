@@ -47,18 +47,15 @@
     <link href="http://yoursite.com/2020/04/28/test-my-site/"/>
     <id>http://yoursite.com/2020/04/28/test-my-site/</id>
     <published>2020-04-27T16:27:39.662Z</published>
-    <updated>2020-05-05T10:41:01.173Z</updated>
+    <updated>2020-05-05T12:09:25.629Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>title: test_my_site<br>date: 2020-04-28 00:27:39<br>tags:</p><hr><p>去23123123123</p>]]></content>
+    <content type="html"><![CDATA[<p>“title”: “123123123<br>“date”: “2020-04-28 00:27:39”<br>;;;</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;hr&gt;
-&lt;p&gt;title: test_my_site&lt;br&gt;date: 2020-04-28 00:27:39&lt;br&gt;tags:&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;去23123123123&lt;/p&gt;
+        &lt;p&gt;“title”: “123123123&lt;br&gt;“date”: “2020-04-28 00:27:39”&lt;br&gt;;;;&lt;/p&gt;
 
       
     
