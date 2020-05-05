@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test_my_site</title>
-    <url>/2020/04/28/test-my-site/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>hello-world</title>
     <url>/2020/04/28/hello-world/</url>
     <content><![CDATA[<hr>
@@ -25,5 +20,10 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>test_my_site</title>
+    <url>/2020/04/28/test-my-site/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
